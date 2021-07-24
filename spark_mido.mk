@@ -43,3 +43,10 @@ BUILD_FINGERPRINT := "google/sunfish/sunfish:11/RQ3A.210705.001/7380771:user/rel
 
 # Set BootAnimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
+
+# Blur
+TARGET_USES_BLUR := false
+
+# Face Unlock
+TARGET_FACE_UNLOCK_SUPPORTED := true
+
